@@ -1,0 +1,19 @@
+{
+  "locale": {
+    "en": "Englisch",
+    "de": "Deutsch"
+  },
+  "nav": {
+    "home": "Start Seite",
+    "about": "über uns"
+  },
+  "home": {
+    "header": "Willkommen zum Vue 3 I18n-Tutorial",
+    "created_by": "erstellt_by: Dieses Tutorial wurde Ihnen von {company} zur Verfügung gestellt",
+    "num_visits": "Diese Seite wurde nicht besucht:( | Diese Seite wurde {n} Mal besucht | Diese Seite wurde {n} Mal besucht "
+  },
+  "about": {
+    "header": "über uns",
+    "donations": "Es wurden {donations} Spenden gesammelt"
+  }
+}

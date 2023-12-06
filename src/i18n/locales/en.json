@@ -1,0 +1,19 @@
+{
+  "locale": {
+    "en": "English",
+    "de": "German"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "header": "welcome to the vue 3 I18n tutorial",
+    "created_by": "this tutorial bought to you by {company}",
+    "num_visits": "this page hasn't been visited :( | this page has been visited {n} time | this page has been visited {n} times"
+  },
+  "about": {
+    "header": "About us",
+    "donations": "Donations raised {donations}"
+  }
+}
